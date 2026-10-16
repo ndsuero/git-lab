@@ -1,4 +1,4 @@
 # My first repository
 I am learning Git.
 Another line
-Favorite color: Green
+Combination of colors Blue and Green.
