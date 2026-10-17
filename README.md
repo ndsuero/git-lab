@@ -12,3 +12,9 @@ I"m **Carlos Duran**, and this is where I learned Git.
 ##Status
 
 Week 2 of my training to become a **Forward Deploy Engineer**.
+
+##About Me
+
+- **Pasionate** with console games
+- I feel pasion for [technology](https://github.com/ndsuero)
+- Pasionate with making food
