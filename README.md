@@ -1,4 +1,14 @@
 # My first repository
-I am learning Git.
-Another line
-Combination of colors Blue and Green.
+
+I"m **Carlos Duran**, and this is where I learned Git.
+
+##What I practiced.
+
+- Saving check points with `git commit`
+- Traveling back in time with `git restore`
+- Parallel universes with **branches**
+- Solving merge conflicts
+
+##Status
+
+Week 2 of my training to become a **Forward Deploy Engineer**.
