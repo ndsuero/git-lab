@@ -2,3 +2,4 @@ fix the bike
 Buy seeds
 Water the plants
 Budget: 150 dollars
+Learn Python
