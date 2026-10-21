@@ -10,7 +10,6 @@ I"m **Carlos Duran**, and this is where I learned Git.
 - Solving merge conflicts
 
 ##Status
-
 Week 2 of my training to become a **Forward Deployd Engineer**.
 
 ##About Me
