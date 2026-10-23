@@ -1,6 +1,6 @@
 # My first repository
 
-I"m **Carlos Duran**, and this is where I learned Git.
+I'm **Carlos Duran**, and this is where I learned Git.
 
 ##What I practiced.
 
@@ -10,10 +10,14 @@ I"m **Carlos Duran**, and this is where I learned Git.
 - Solving merge conflicts
 
 ##Status
-Week 2 of my training to become a **Forward Deployd Engineer**.
+Week 2 of my training to become a **Forward Deployed Engineer**.
 
 ##About Me
 
-- **Pasionate** with console games
+- **Passionate** with console games
 - I feel pasion for [technology](https://github.com/ndsuero)
-- Pasionate with making food
+- Passionate with making food
+
+##About
+
+Welcome to my very **first repository!** This project tracks my practical learning as I transition from keeping machines talking on the factory floor to building software solutions as a Forward Deployed Engineer.
