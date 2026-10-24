@@ -1,8 +1,8 @@
 1.Git add: The people who are going to be in the photo, staging area. Git commit: People who are in the photo.
 2.Red: changes outside the photos no added, Green: changes inside the photo added.
-3.Git log  –-online -–graph  --all
-4.If I try to make a commit, it shows me in red those changes aren’t added yet.
-5.Git restore –staged file.
+3.git log --oneline
+4.git diff
+5.git restore --staged <filename or folder_name>
 6.With:  git restore file.
 7.Git branch. Git switch -c  test.
 8.Is like to write two different things on the sane line of the same file. Humans decide.
