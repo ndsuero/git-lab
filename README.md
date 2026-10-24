@@ -2,21 +2,19 @@
 
 I'm **Carlos Duran**, and this is where I learned Git.
 
-## What I practiced.
+## What I practiced
 
-- Saving check points with `git commit`.
-- Traveling back in time with `git restore`.
-- Parallel universes with **branches**.
-- Solving merge conflicts.
+- Saving checkpoints with `git commit`
+- Traveling back in time with `git restore`
+- Parallel universes with **branches**
+- Solving merge conflicts
+
 ## Status
+
 Week 2 of my training to become a **Forward Deployed Engineer**.
 
-## About Mes
+## About me
 
-- **Passionate** with console games.
+- **Passionate** about console games
 - I feel passion for [technology](https://github.com/ndsuero)
-- Passionate with making food.
-
-## About
-
-Welcome to my very **first repository!** This project tracks my practical learning as I transition from keeping machines talking on the factory floor to building software solutions as a Forward Deployed Engineer.
+- Passionate about cooking
